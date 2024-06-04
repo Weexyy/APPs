@@ -37,7 +37,8 @@ createApp({
                     id: 4,
                     name: '访问统计',
                     sites: [
-                        { url: 'https://status.weexy.cn/', title: '站点监测', description: '监测各网站在线状态' }
+                        { url: 'https://status.weexy.cn/', title: '站点监测', description: '监测各网站在线状态' },
+                        { url: 'https://umami.weexy.cn/statistics', title: '博客访问统计', description: '记录博客访问信息' }
                     ]
                 }
             ]
